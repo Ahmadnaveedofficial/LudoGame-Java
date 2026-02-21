@@ -24,7 +24,7 @@ public class LudoGame extends JFrame {
         boardPanel = new BoardPanel(this, state);
         sidePanel = new SidePanel(this, state);
 
-        bar = new JLabel("  Welcome – click New Game!", SwingConstants.LEFT);
+        bar = new JLabel("Welcome click New Game!", SwingConstants.LEFT);
         bar.setFont(new Font("Segoe UI", Font.PLAIN, 14));
         bar.setBackground(new Color(22, 22, 32));
         bar.setForeground(new Color(215, 215, 215));
