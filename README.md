@@ -51,7 +51,7 @@ ludo-game-java/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/your-username/ludo-game-java.git
+git clone https://github.com/your-username/LudoGame-Java.git
 cd ludo-game-java
 ```
 
