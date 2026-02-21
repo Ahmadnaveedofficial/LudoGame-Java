@@ -107,6 +107,26 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
+## 👨‍💻 Author
+
+**Muhammad Ahmad Naveed**
+Full Stack Developer
+
+- 🌐 GitHub: [@Ahmadnaveedofficial](https://github.com/Ahmadnaveedofficial)
+- 💼 LinkedIn: [Muhammad Ahmad Naveed](https://www.linkedin.com/in/ahmad-naveed-7b539521a/)
+- 📧 Email: ahmadnaveedofficial05@email.com
+
+---
+
+## © Copyright
+
+Copyright © 2025 **Muhammad Ahmad Naveed**
+
+All rights reserved. This project and its source code are the intellectual property of Muhammad Ahmad Naveed. You may use, copy, and modify this project for personal or educational purposes with proper credit to the original author.
+
+> Unauthorized commercial use without permission is not allowed.
+
 > Made with ☕ and Java
+
 
 
