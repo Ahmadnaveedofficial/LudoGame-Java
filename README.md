@@ -1,13 +1,15 @@
-# 🎲 Ludo Game — Java Swing
+# 🎲 Ludo Game — Java
 
 A classic **Ludo board game** built in Java Swing with AI opponents, smooth token animation, and a clean multi-file package structure.
 
 ---
 
 ## 📸 Preview
+> 4 players on a fully rendered 15×15 board with colored yards, safe cells, home columns, and animated token movement.
+>
 <img width="1085" height="886" alt="image" src="https://github.com/user-attachments/assets/8bb4a778-410b-4e9a-b1b8-0e94c13040e8" />
 
-> 4 players on a fully rendered 15×15 board with colored yards, safe cells, home columns, and animated token movement.
+
 
 ---
 
@@ -106,4 +108,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 > Made with ☕ and Java
+
 
