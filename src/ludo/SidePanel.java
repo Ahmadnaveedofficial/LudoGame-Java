@@ -41,7 +41,7 @@ public class SidePanel extends JPanel {
         JButton rollBtn = game.btn("ROLL DICE", new Color(50, 148, 75));
         rollBtn.setAlignmentX(CENTER_ALIGNMENT);
         rollBtn.addActionListener(e -> state.roll());
-        add(rollBtn);
+        add(rollBtn); 
 
         add(Box.createRigidArea(new Dimension(0, 24)));
 

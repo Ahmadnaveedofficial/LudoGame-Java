@@ -5,10 +5,10 @@ import java.awt.Color;
 public class Constants {
 
         public static final int CELL = 56;
-        public static final int BOARD = CELL * 15;
+        public static final int BOARD = CELL * 15;     // 840
         public static final int SIDE = 260;
-        public static final int WIN_W = BOARD + SIDE;
-        public static final int WIN_H = BOARD + 54;
+        public static final int WIN_W = BOARD + SIDE;    // 1100 
+        public static final int WIN_H = BOARD + 54;        // 894
 
         public static final Color C_RED = new Color(210, 40, 40);
         public static final Color C_BLUE = new Color(30, 90, 195);
@@ -38,9 +38,9 @@ public class Constants {
         };
 
         public static final int[] LAUNCH = { 0, 13, 26, 39 };
-        public static final int[] HOME_ENTRY = { 51, 12, 25, 38 };      
-       //   public static final int[] HOME_ENTRY = { 50, 11, 24, 37 };       // for 0-based indexing
-        
+        public static final int[] HOME_ENTRY = { 51, 12, 25, 38 };
+        // public static final int[] HOME_ENTRY = { 50, 11, 24, 37 }; // for 0-based
+        // indexing
 
         public static final boolean[] SAFE = {
                         true, false, false, false, false, false, false, false,
@@ -52,14 +52,14 @@ public class Constants {
                         false, false, false, false
         };
 
-        public static final int[][][] HOMECOL = {     // player,step,row,col
+        public static final int[][][] HOMECOL = { // player,step,row,col
                         { { 7, 1 }, { 7, 2 }, { 7, 3 }, { 7, 4 }, { 7, 5 } },
                         { { 1, 7 }, { 2, 7 }, { 3, 7 }, { 4, 7 }, { 5, 7 } },
                         { { 7, 13 }, { 7, 12 }, { 7, 11 }, { 7, 10 }, { 7, 9 } },
                         { { 13, 7 }, { 12, 7 }, { 11, 7 }, { 10, 7 }, { 9, 7 } }
         };
 
-        public static final int[][][] YARD = {             // player,token,row,col
+        public static final int[][][] YARD = { // player,token,row,col
                         { { 2, 2 }, { 2, 4 }, { 4, 2 }, { 4, 4 } },
                         { { 2, 10 }, { 2, 12 }, { 4, 10 }, { 4, 12 } },
                         { { 10, 10 }, { 10, 12 }, { 12, 10 }, { 12, 12 } },
@@ -73,7 +73,7 @@ public class Constants {
                         new Color(238, 213, 133)
         };
 
-        public static final int[][][] DICE_DOTS = {           // number,dot,row,col
+        public static final int[][][] DICE_DOTS = { // number,dot,row,col
                         { { 2, 2 } },
                         { { 1, 1 }, { 3, 3 } },
                         { { 1, 1 }, { 2, 2 }, { 3, 3 } },
