@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.awt.geom.*;
 
-public class BoardPanel extends JPanel {
+public class BoardPanel extends JPanel { 
 
     private LudoGame game;
     private GameState state;
