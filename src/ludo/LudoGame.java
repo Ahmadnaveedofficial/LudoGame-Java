@@ -18,7 +18,7 @@ public class LudoGame extends JFrame {
     public LudoGame() {
         super("Ludo");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
-        setResizable(false);
+        setResizable(true);
 
         state = new GameState(this);
         boardPanel = new BoardPanel(this, state);
