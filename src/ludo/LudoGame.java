@@ -50,7 +50,7 @@ public class LudoGame extends JFrame {
         d.getContentPane().setBackground(new Color(18, 18, 32));
         d.setLayout(new GridBagLayout());
         GridBagConstraints gc = new GridBagConstraints();
-        gc.insets = new Insets(8, 16, 8, 16);
+        gc.insets = new Insets(16, 30, 16, 30);
 
         JLabel ttl = new JLabel("LUDO", SwingConstants.CENTER);
         ttl.setFont(new Font("Impact", Font.PLAIN, 52));
