@@ -5,10 +5,10 @@ import java.awt.Color;
 public class Constants {
 
         public static final int CELL = 56;
-        public static final int BOARD = CELL * 15;     // 840
+        public static final int BOARD = CELL * 15; // 840
         public static final int SIDE = 260;
-        public static final int WIN_W = BOARD + SIDE;    // 1100 
-        public static final int WIN_H = BOARD + 54;        // 894
+        public static final int WIN_W = BOARD + SIDE; // 1100
+        public static final int WIN_H = BOARD + 54; // 894
 
         public static final Color C_RED = new Color(210, 40, 40);
         public static final Color C_BLUE = new Color(30, 90, 195);
