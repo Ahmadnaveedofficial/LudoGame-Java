@@ -376,4 +376,4 @@ public class GameState {
         }
         return new Point(bx, by);
     }
-}
+} 

@@ -68,7 +68,7 @@ public class BoardPanel extends JPanel {
             g.drawLine(i * Constants.CELL, 0, i * Constants.CELL, Constants.BOARD);
             g.drawLine(0, i * Constants.CELL, Constants.BOARD, i * Constants.CELL);
         }
-
+ 
         g.setColor(Constants.C_DARK);
         g.setStroke(new BasicStroke(3f));
         g.drawRect(1, 1, Constants.BOARD - 2, Constants.BOARD - 2);

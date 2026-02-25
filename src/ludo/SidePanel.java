@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.geom.*;
 
 public class SidePanel extends JPanel {
-
+ 
     private LudoGame game;
     private GameState state;
 

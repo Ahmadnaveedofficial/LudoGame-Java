@@ -1,7 +1,7 @@
 package ludo;
 
 import java.awt.Color;
-
+  
 public class Constants {
 
         public static final int CELL = 56;

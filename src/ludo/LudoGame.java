@@ -114,7 +114,7 @@ public class LudoGame extends JFrame {
         if (!state.human[state.cur]) {
             state.aiDelay();
         }
-    }
+    }  
 
     public JButton btn(String t, Color bg) {
         JButton b = new JButton(t);
